@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Irvan Wijaya</h1>
 <h3 align="center">A passionate web/application developer</h3>
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning [**React.js**](https://www.udemy.com/course/react-the-complete-guide-incl-redux/?LSNPUBID=JVFxdTr9V80&ranEAID=JVFxdTr9V80&ranMID=39197&ranSiteID=JVFxdTr9V80-NwQNTyQBy_fLbom5rVq2kQ&utm_medium=udemyads&utm_source=aff-campaign) & **Mobile Development**
 
 - 👨‍💻 All of my projects are available at [https://irvan-wijaya.netlify.app/](https://irvan-wijaya.netlify.app/)
 
