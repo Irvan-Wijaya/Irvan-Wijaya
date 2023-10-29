@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Irvan Wijaya</h1>
 <h3 align="center">A passionate web/application developer</h3>
 
-- 🔭 I’m currently intern at **Asuransi Astra**
+- 🔭 I’m currently intern at **Asuransi Astra** as application developer
 
 - 🌱 I’m currently learning **React.js & Software Development**
 
