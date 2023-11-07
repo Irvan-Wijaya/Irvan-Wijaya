@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently intern at **Asuransi Astra** as application developer
 
-- 🌱 I’m currently learning **React.js & Software Development**
+- 🌱 I’m currently learning **React.js & Fullstack Software Development**
 
 - 👨‍💻 All of my projects are available at [https://irvan-wijaya.netlify.app/](https://irvan-wijaya.netlify.app/)
 
